@@ -5,31 +5,31 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/easy.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Додаток був створенний максимально просто для кожного користувача. Незалежно
+        від віку та рівня обізнаності в технологіях.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Практичність',
+    Svg: require('@site/static/img/target.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Всі функції в боті були вибрані згідно опитуваннь учнів та вчителів. Згідно цього
+        було враховано всі побажання з двох сторін для організації гарної комунікації.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Функціональність',
+    Svg: require('@site/static/img/innovation.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Мета проєкту покращити максимально комунікування у навчальних класах та роблячи це все в одному додатку.
+        Тому всі функції доступні з одного бота.
       </>
     ),
   },
