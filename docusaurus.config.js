@@ -54,6 +54,7 @@ const config = {
     ({
       metadata: [
         {name: 'google-site-verification', content: 'brum5cwyDaTYUy7BhXNtDjxpjTHTZWpBjdLHa4o8AiQ'},
+        {name: 'msvalidate.01', content: 'CE38067298A367EC1502330F10F0774E'},
         {name: 'twitter:card', content: 'summary_large_image'},
       ],
       // Replace with your project's social card
